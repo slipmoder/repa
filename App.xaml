@@ -1,0 +1,9 @@
+﻿<Application x:Class="Cosmetic3121.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cosmetic3121"
+             StartupUri="/Windows_/ProductsWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
